@@ -1,5 +1,16 @@
 # Human-Resources-Analytics-Overview
  Workforce, Attrition, and Retention Insights
+
+ ## Table of Content
+ - [Project Overview](#project-overview)
+ - [Data Cleaning and Transformation](#data-cleaning-and-transformation)
+ - [Executive Summary](#executive-summary)
+ - [Insights](#insights)
+ - [Recommendations](#recommendations)
+ - [Project Impact](#project-impact)
+ - [Limitations](#limitations)
+ 
+ 
 ## Project Overview
 #### This project analyzed a six-year HR dataset to understand workforce composition, attrition patterns, tenure distribution, and employee engagement indicators. The primary objective was to support HR decision-making by identifying key drivers of employee turnover and retention risks across departments, age groups, tenure bands, and employment types. The dashboard was designed with recruiters and HR leadership in mind, prioritizing clarity, relevance, and actionable insights. All analyses were focused on delivering practical recommendations to guide workforce strategy and decision-making. Analysis and visualizations were performed using Excel, Power Query, and Power BI.
 
