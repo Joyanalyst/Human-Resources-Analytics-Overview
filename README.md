@@ -15,11 +15,11 @@
 #### This project analyzed a six-year HR dataset to understand workforce composition, attrition patterns, tenure distribution, and employee engagement indicators. The primary objective was to support HR decision-making by identifying key drivers of employee turnover and retention risks across departments, age groups, tenure bands, and employment types. The dashboard was designed with recruiters and HR leadership in mind, prioritizing clarity, relevance, and actionable insights. All analyses were focused on delivering practical recommendations to guide workforce strategy and decision-making. Analysis and visualizations were performed using Excel, Power Query, and Power BI.
 
 ## Data Cleaning and Transformation
-#### o	Standardized date formats and corrected inconsistent text values using Power Query
-#### o	Handled missing exit dates and employment statuses appropriately
-#### o	Created calculated columns for tenure, age, age groups, and tenure bands
-#### o	Created a date table for time series analysis
-#### o	Derived Employee Engagement Index using weighted HR indicators
+#### 1.	Standardized date formats and corrected inconsistent text values using Power Query
+#### 2. Handled missing exit dates and employment statuses appropriately
+#### 3. Created calculated columns for tenure, age, age groups, and tenure bands
+#### 4. Created a date table for time series analysis
+#### 5. Derived Employee Engagement Index using weighted HR indicators
 
 ## Executive Summary
 #### The organization maintains an active workforce of approximately 2,000 employees, with an overall attrition rate of 51% and a retention rate of 49%, indicating moderate workforce instability over the six years. The Employee Engagement Index of 58.39 suggests moderate engagement levels, which may not be sufficient to sustain long-term employee retention. Analysis of exit patterns reveals that nearly 49% of all employee exits occur within the first year of employment, indicating that early tenure is the most vulnerable period for turnover. Exit concentration declines significantly with longer tenure, indicating improved retention among more established employees. Department-level analysis identified the Executive Office (80%) and Admin Offices (60%) as the highest attrition risk areas, with rates significantly exceeding the organizational average. These trends indicate potential department-specific retention challenges that may require targeted intervention. Trend analysis over time reveals that attrition has remained consistently elevated, with only minor year-to-year fluctuations, suggesting that it is not driven by isolated events but rather reflects persistent structural or workforce-related factors.
